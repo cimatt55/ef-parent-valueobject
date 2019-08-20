@@ -1,0 +1,11 @@
+C:\Users\simonmatthews\source\repos\NestedValueObject\bin\Debug\netcoreapp2.2\NestedValueObject.deps.json
+C:\Users\simonmatthews\source\repos\NestedValueObject\bin\Debug\netcoreapp2.2\NestedValueObject.runtimeconfig.json
+C:\Users\simonmatthews\source\repos\NestedValueObject\bin\Debug\netcoreapp2.2\NestedValueObject.runtimeconfig.dev.json
+C:\Users\simonmatthews\source\repos\NestedValueObject\bin\Debug\netcoreapp2.2\NestedValueObject.dll
+C:\Users\simonmatthews\source\repos\NestedValueObject\bin\Debug\netcoreapp2.2\NestedValueObject.pdb
+C:\Users\simonmatthews\source\repos\NestedValueObject\obj\Debug\netcoreapp2.2\NestedValueObject.csprojAssemblyReference.cache
+C:\Users\simonmatthews\source\repos\NestedValueObject\obj\Debug\netcoreapp2.2\NestedValueObject.csproj.CoreCompileInputs.cache
+C:\Users\simonmatthews\source\repos\NestedValueObject\obj\Debug\netcoreapp2.2\NestedValueObject.AssemblyInfoInputs.cache
+C:\Users\simonmatthews\source\repos\NestedValueObject\obj\Debug\netcoreapp2.2\NestedValueObject.AssemblyInfo.cs
+C:\Users\simonmatthews\source\repos\NestedValueObject\obj\Debug\netcoreapp2.2\NestedValueObject.dll
+C:\Users\simonmatthews\source\repos\NestedValueObject\obj\Debug\netcoreapp2.2\NestedValueObject.pdb
